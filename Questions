@@ -1,0 +1,10 @@
+### a) What is a Python module and how does it differ from a Python package?
+A python module is  a kind of toolbox containing tools with predefined functions. This tools are ordered in kind of families or collections which can be called packages because they deal with the same theme.
+b) What are side effects and give some examples.
+A side effect is a result of an visible action executed by a module, when something is being printed, a question is being  asked to the user, a text appears...
+c) What are Exceptions and what to do if third-party code that we use throws them?
+Exceptions are a way of categorizing different use-cases, depending on the context and errors that can occur. They are ordered in families, classes and point to apparented error types. It is a good orientation to better understand where the encountered issue is coming from. I don't understand what third-party code means).
+d)Using which keywords can you create, throw and catch your new custom Exception?
+Python provides a hierarchy of standard exceptions and looking in the Python documentation helps you create, throw and catch your own created exception.
+e) Give examples of some benefits of testing?
+Testing is like verifying step by step that your code is working well: it improves the end quality of the code and spares you from bad last minutes surprises: it can also be cost-effective, enhance the performance of your code. If you test it regularly, you are sure it works safely, properly. It will be very reliable for the end-user, who will feel secure using the product and be very satisfied.###
