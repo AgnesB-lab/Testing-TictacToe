@@ -1,0 +1,18 @@
+#test_game_move
+def move(board, mark, position):
+  new_board = board[:position] + mark + board[position+1:]
+  return new_board
+
+def test_move_x():
+    board = "---------"
+    mark = "x"
+    position = 0
+    result = move(board, mark, position)
+    assert result == "x--------"
+
+def test_move_o():
+    board = "x--------"
+    mark = "o"
+    position = 4
+    result = move(board, mark, position)
+    assert result == "x--o-----"
