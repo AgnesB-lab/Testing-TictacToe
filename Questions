@@ -1,4 +1,6 @@
-### a) What is a Python module and how does it differ from a Python package?
+### 
+Before answering the homework questions, I would like to say, that I couldn't run any test, because it just didn't work. I don't know where I am wrong, but nothing worked. And I spent a few hours on it... I feel totally lost with this testing issue and also a little bit with github, because the commit function doesn't always work..
+a) What is a Python module and how does it differ from a Python package?
 A python module is  a kind of toolbox containing tools with predefined functions. This tools are ordered in kind of families or collections which can be called packages because they deal with the same theme.
 b) What are side effects and give some examples.
 A side effect is a result of an visible action executed by a module, when something is being printed, a question is being  asked to the user, a text appears...
